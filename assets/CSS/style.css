@@ -53,7 +53,7 @@ body{
     width: 1.5rem;
 }
 
-.weather-icon{
+.weather-icon img{
     width: 170px;
     margin-top: 30px;
 }
